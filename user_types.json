@@ -1,0 +1,25 @@
+{
+  "UserTypes": [
+    {
+      "Name": "Alice Smith",
+      "Age": 28,
+      "City": "London",
+      "Role": "Admin",
+      "Permissions": [ "read", "write", "delete", "manage_users" ]
+    },
+    {
+      "Name": "Bob Johnson",
+      "Age": 22,
+      "City": "Berlin",
+      "Role": "RegularUser",
+      "FavoriteCategory": "Technology"
+    },
+    {
+      "Name": "Carol White",
+      "Age": 35,
+      "City": "Paris",
+      "Role": "Moderator",
+      "AssignedSection": "Forums"
+    }
+  ]
+}
