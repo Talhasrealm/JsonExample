@@ -2,7 +2,7 @@
 //  JsonExample - OOP Assignment
 //  Tasks 1–5 all in one file, run from Main().
 // =============================================================
-// Task 3: Deserialise all entries with loop
+// Task 4: Inheritance - Admin, RegularUser, Moderator
 
 
 
