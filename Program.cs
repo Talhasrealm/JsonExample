@@ -2,7 +2,7 @@
 //  JsonExample - OOP Assignment
 //  Tasks 1–5 all in one file, run from Main().
 // =============================================================
-// Task 1: Read and parse users.json
+// Task 2: Added new entries to JSON
 
 
 using Newtonsoft.Json;
