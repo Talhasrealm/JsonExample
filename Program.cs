@@ -2,7 +2,8 @@
 //  JsonExample - OOP Assignment
 //  Tasks 1–5 all in one file, run from Main().
 // =============================================================
-// Task 2: Added new entries to JSON
+// Task 3: Deserialise all entries with loop
+
 
 
 using Newtonsoft.Json;
