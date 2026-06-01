@@ -58,12 +58,3 @@ A C# Console Application demonstrating JSON parsing, OOP inheritance, and NuGet 
 - Stored all results in a `List<User>` and printed each with `DisplayInfo()`
 
 ---
-
-## Project Structure
-
-sonExample/
-├── Program.cs           # All 5 tasks, each in its own static method
-├── users.json           # Created in Task 1, updated in Task 2
-├── user_types.json      # Created for Task 5
-├── README.md            # This file
-└── JsonExample.csproj   # References Newtonsoft.Json 13.0.3
