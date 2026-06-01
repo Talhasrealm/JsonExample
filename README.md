@@ -58,20 +58,6 @@ JsonExample/
 
 ---
 
-## How to Run
-
-1. Open the solution in **Visual Studio 2022** (or later).
-2. Restore NuGet packages (automatic on first build).
-3. Press **F5** to run.
-
-Or via CLI:
-```bash
-dotnet restore
-dotnet run
-```
-
----
-
 ## Expected Console Output (summary)
 
 ```
